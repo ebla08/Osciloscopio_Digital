@@ -4,6 +4,7 @@
 ---
 
 ## Introducción
+![image](https://github.com/user-attachments/assets/20a757b4-1c8d-4076-bc7a-b03de4f70a86)
 
 El presente informe describe el diseño, implementación y funcionamiento de un osciloscopio digital de 4 canales desarrollado mediante la integración de hardware Arduino y software Python.
 
